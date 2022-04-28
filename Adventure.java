@@ -1,8 +1,5 @@
 
 // Project Prolog
-// Name: Jaxon Downing
-// Project: Adventure Game Part 3
-// Date: 04/28/2022 3:21:00 PM
 // Purpose: Add functionality to an existing program.
 // Refactor an existing program in order to support change.
 // Provide a GUI interface to the game.
