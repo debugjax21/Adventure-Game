@@ -1,7 +1,6 @@
 
 // Project Prolog
 // Name: Jaxon Downing
-// CS3250 Section 001
 // Project: Adventure Game Part 3
 // Date: 04/28/2022 3:21:00 PM
 // Purpose: Add functionality to an existing program.
