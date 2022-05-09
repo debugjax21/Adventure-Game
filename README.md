@@ -48,4 +48,5 @@ it into the program. However, if the user is opening up a previously saved file
 (has "Last saved location:" in the text file) there must be an inventory items
 text file on the line below, an error will display otherwise.
 
+![Screenshot (92)](https://user-images.githubusercontent.com/80862425/167490412-c416c67c-b3b3-4dd6-9fb8-562ccc8c4074.png)
 
