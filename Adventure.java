@@ -421,9 +421,7 @@ public final class Adventure extends Application {
 
             Application.launch(args);
 
-        } else
-
-        {
+        } else {
             System.out.println("Error: No text file was entered.");
             System.exit(0);
         }
