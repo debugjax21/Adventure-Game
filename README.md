@@ -1,8 +1,5 @@
 # Adventure-Game
-Simple adventure game I made for my Java Software Development class.
-Program is completed for assignment. Want to add more features to it in the future.
-
-The program uses JavaFX library.
+Simple adventure game I made. The program utilizes the JavaFX framework.
 
 How to run from command line:
 
