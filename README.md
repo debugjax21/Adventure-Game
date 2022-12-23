@@ -1,5 +1,5 @@
 # Adventure-Game
-Simple adventure game I made. The program utilizes the JavaFX framework.
+Simple text-based adventure game I made. The program utilizes the JavaFX framework.
 
 How to run from command line:
 
